@@ -11,7 +11,7 @@ This project explores two conditioning strategies for virtual try-on using laten
 ## Setup
 
 ```bash
-conda create -n viton python=3.8
+conda create -n viton python=3.10.15
 conda activate viton
 git clone https://github.com/Yanko96/cs682-project.git
 cd cs682-project
